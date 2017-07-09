@@ -1,5 +1,5 @@
 # Minimal-Logger
-Minimal logger written for Python by Luke Davis ([@R8T3D](http://www.twitter.com/R8T3D)) (inspired by darron eggins)
+Minimal logger written for Python by Luke Davis ([@R8T3D](http://www.twitter.com/R8T3D)) (inspired by [darron eggins](https://github.com/eggins))
 
 ## Features
   * Print with timestamp easily & consistently
