@@ -6,7 +6,7 @@ Minimal logger written for Python by Luke Davis ([@R8T3D](http://www.twitter.com
   
 ## Usage
 
-Minimal logger requires **Python 2.7**
+Minimal logger supports **Python 2.7 and Python 3+**
 
 #####  1. Import
 `from logger import logger`
